@@ -23,23 +23,23 @@ https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
 
 ## Build Project
 
-Open Terminal & type this command - initially build
+- Open Terminal & type this command - initially build
 
 `npm install`
 
 `bower install`
 
-Next type this command
+- Next type this command
 
 `gulp`
 
 ## Run Project
 
-Open Terminal & type this command
+- Open Terminal & type this command
 
 `gulp serve`
 
-- **Webstrom**에서도 Run Configuration을 `gulp`로 맞추고 `Tasks`를 `serve`로 맞추면 실행가능함.
+- **Webstrom**에서도 Run Configuration을 `gulp`로 맞추고, `Tasks`를 `serve`로 맞추면 실행가능함.
 
  
 - ScreenShot
