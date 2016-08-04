@@ -3,16 +3,26 @@
 Reactive Programming with RxJS
 3장에 있는 예제
 
-## 프로젝트 환경설정
+## Configuration - **Required!**
 - install **node(>= 4.0)(& npm**
 https://nodejs.org/en/download/
 
+- install **bower**
+`npm install -g bower`
+https://bower.io
+
 - install **gulp-cli**
-`npm install --global gulp-cli`
+`npm install -g gulp-cli`
 https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
-  
+
+
 - Build Project
-Open Terminal & type this command
+
+Open Terminal & type this command - initially build
+`npm install`
+`bower install`
+
+Next type this command
 `gulp`
 
 - Run Project
